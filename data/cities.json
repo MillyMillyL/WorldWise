@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Cuevas de Almuden",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-05T13:46:22.103Z",
+      "notes": "",
+      "position": {
+        "lat": "40.763901280945866",
+        "lng": "-0.7910156250000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Alcala del Jucar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T00:25:22.548Z",
+      "notes": "",
+      "position": {
+        "lat": "39.232253141714914",
+        "lng": "-1.3842773437500002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Jumilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T00:28:57.913Z",
+      "notes": "",
+      "position": {
+        "lat": "38.53097889440024",
+        "lng": "-1.3183593750000002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Aguilar de Campos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T12:11:16.921Z",
+      "notes": "",
+      "position": {
+        "lat": "41.96765920367816",
+        "lng": "-5.229492187500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Valravillon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-06T12:11:25.615Z",
+      "notes": "",
+      "position": {
+        "lat": "47.88688085106901",
+        "lng": "3.4497070312500004"
+      },
+      "id": 98443203
+    }
+  ]
+}
